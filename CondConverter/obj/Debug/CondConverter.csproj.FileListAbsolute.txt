@@ -1,6 +1,0 @@
-c:\users\clarke.alex\documents\visual studio 2015\Projects\CondConverter\CondConverter\bin\Debug\CondConverter.exe.config
-c:\users\clarke.alex\documents\visual studio 2015\Projects\CondConverter\CondConverter\bin\Debug\CondConverter.exe
-c:\users\clarke.alex\documents\visual studio 2015\Projects\CondConverter\CondConverter\bin\Debug\CondConverter.pdb
-c:\users\clarke.alex\documents\visual studio 2015\Projects\CondConverter\CondConverter\obj\Debug\CondConverter.csprojResolveAssemblyReference.cache
-c:\users\clarke.alex\documents\visual studio 2015\Projects\CondConverter\CondConverter\obj\Debug\CondConverter.exe
-c:\users\clarke.alex\documents\visual studio 2015\Projects\CondConverter\CondConverter\obj\Debug\CondConverter.pdb

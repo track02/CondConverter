@@ -1,0 +1,1 @@
+(AND A B (NOT C) (OR D (AND E F)))

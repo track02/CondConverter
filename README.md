@@ -5,9 +5,10 @@ Copy a prefix conditional into the input.txt file and run the script, the result
 
 Example:
 
-(AND A B (NOT C) (OR D (AND E F)))
+`(AND A B (NOT C) (OR D (AND E F)))`
 
 Is converted to:
 
-(A AND B AND (NOT C) AND (D OR (E AND F)))
+`(A AND B AND (NOT C) AND (D OR (E AND F)))`
+
 

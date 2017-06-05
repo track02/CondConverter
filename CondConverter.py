@@ -1,14 +1,17 @@
+# Output is a string used to store the converted condition
 output = ""
+# Operation stack, keeps track of most recent operation
 op_stack = []
 
 # Three possible elements
+# (OP A B) / (AND A B)
 # Start -> (Op
 # Middle -> A
 # End -> B)
-# (Op A B)
 
-# Whenever a start element is found, open a new bracket and push the operator to onto the stack (
-# Special case for NOT) -> "("
+# Whenever a start element is found, open a new bracket and push the operator to onto the stack -> "("
+# Note - Special case for NOT -> "(NOT"
+
 # If a middle element is found add it along with the current operator on the stack -> "(" + "A OR"
 # When an end element is found, count the number of closing brackets and pop this no. of operators from the stack
 # If the end element is the final element in the list then just add it to the end "( A OR " + "B )"

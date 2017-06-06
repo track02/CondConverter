@@ -11,4 +11,3 @@ Is converted to:
 
 `(A AND B AND (NOT C) AND (D OR (E AND F)))`
 
-
